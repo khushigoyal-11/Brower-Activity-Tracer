@@ -23,7 +23,7 @@ This is a Chrome extension that helps you track your website usage, including th
 <h3>Installation</h3>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/Manraj29/Browser-Activity-Tracker.git</code></pre>
+    <pre><code>git clone https://github.com/khushigoyal-11/Brower-Activity-Tracer</code></pre>
     <li>Navigate to the project directory</li>
     <li>Install dependencies:</li><pre><code>npm install</code></pre>
     <li>Build the project:</li><pre><code>npm run build</code></pre>
@@ -44,9 +44,7 @@ This is a Chrome extension that helps you track your website usage, including th
     <li>Follow the tips provided to manage your online habits more effectively.</li>
 </ol>
 
-<h2>Screenshots</h2>
-<img src="https://github.com/user-attachments/assets/014f86d5-990a-422a-8a49-1222dcb57363" alt="home page"/>
-<img src="https://github.com/user-attachments/assets/1d778061-3f60-4cd7-b88c-15856e59e2d1" alt="popup page"/>
+
 <h2>Technologies Used</h2>
 <ul>
     <li>React.js</li>
