@@ -53,15 +53,8 @@ This is a Chrome extension that helps you track your website usage, including th
     <li>Chrome Extensions API</li>
     <li>JavaScript</li>
     <li>HTML & CSS</li>
-    <li>Bootstrap (for UI styling)</li>
 </ul>
 
-<h2>Future Improvements</h2>
-<ul>
-    <li>Adding user-customizable categories.</li>
-    <li>Integrating with a backend for long-term data storage.</li>
-    <li>Exporting usage reports as CSV or PDF.</li>
-    <li>Adding dark mode support for the interface.</li>
-</ul>
+
 
 Thanks!
